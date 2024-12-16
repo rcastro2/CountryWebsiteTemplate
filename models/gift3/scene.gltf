@@ -1,0 +1,362 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 184,
+      "max": [
+        1.1919000148773193,
+        1.2163200378417969,
+        2.0343101024627686
+      ],
+      "min": [
+        -1.1942299604415894,
+        -1.2096400260925293,
+        0.034309998154640198
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 2208,
+      "componentType": 5126,
+      "count": 184,
+      "max": [
+        0.99611097574234009,
+        0.99426490068435669,
+        1
+      ],
+      "min": [
+        -0.99382156133651733,
+        -0.99043601751327515,
+        -1
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 184,
+      "max": [
+        0.99999737739562988,
+        0.99989968538284302,
+        0.99498200416564941,
+        1
+      ],
+      "min": [
+        -0.99995243549346924,
+        -0.99996381998062134,
+        -0.20269213616847992,
+        1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 184,
+      "max": [
+        0.99971997737884521,
+        0.96118998527526855
+      ],
+      "min": [
+        0.00028000000747852027,
+        0.28088000416755676
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 288,
+      "max": [
+        183
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 4416,
+      "componentType": 5126,
+      "count": 593,
+      "max": [
+        1.2185200452804565,
+        1.2424399852752686,
+        2.7481400966644287
+      ],
+      "min": [
+        -1.227139949798584,
+        -1.2377099990844727,
+        0.00030000001424923539
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 11532,
+      "componentType": 5126,
+      "count": 593,
+      "max": [
+        0.99553370475769043,
+        0.99417167901992798,
+        1
+      ],
+      "min": [
+        -0.99417167901992798,
+        -0.99417167901992798,
+        -1
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 2944,
+      "componentType": 5126,
+      "count": 593,
+      "max": [
+        0.99999850988388062,
+        0.99993044137954712,
+        0.99498254060745239,
+        1
+      ],
+      "min": [
+        -0.99991911649703979,
+        -0.99979186058044434,
+        -0.99766409397125244,
+        1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 1472,
+      "componentType": 5126,
+      "count": 593,
+      "max": [
+        0.86694997549057007,
+        0.91294002532958984
+      ],
+      "min": [
+        0.00028000000747852027,
+        0.00028000000747852027
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 1152,
+      "componentType": 5125,
+      "count": 918,
+      "max": [
+        592
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "kattynote (https://sketchfab.com/kattynote)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/gift-1d212c374aa04377869a622d28b9a9e8",
+      "title": "Gift"
+    },
+    "generator": "Sketchfab-6.9.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 4824,
+      "byteOffset": 0,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 6216,
+      "byteOffset": 4824,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 18648,
+      "byteOffset": 11040,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 12432,
+      "byteOffset": 29688,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 42120,
+      "uri": "scene.bin"
+    }
+  ],
+  "extensionsRequired": [
+    "KHR_materials_pbrSpecularGlossiness"
+  ],
+  "extensionsUsed": [
+    "KHR_materials_pbrSpecularGlossiness"
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "extensions": {
+        "KHR_materials_pbrSpecularGlossiness": {
+          "diffuseFactor": [
+            0.95597335319999999,
+            0.87136711919999998,
+            0.86315721349999996,
+            1
+          ],
+          "glossinessFactor": 0.69999999999999996,
+          "specularFactor": [
+            0.02,
+            0.02,
+            0.02
+          ]
+        }
+      },
+      "name": "Gift_White"
+    },
+    {
+      "doubleSided": true,
+      "extensions": {
+        "KHR_materials_pbrSpecularGlossiness": {
+          "diffuseFactor": [
+            0.99110209709999997,
+            0.59720178840000004,
+            0.62396039169999995,
+            1
+          ],
+          "glossinessFactor": 0.69999999999999996,
+          "specularFactor": [
+            0.001714939,
+            0.001714939,
+            0.001714939
+          ]
+        }
+      },
+      "name": "Gift_Pink"
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Gift_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Gift_1",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 6,
+            "POSITION": 5,
+            "TANGENT": 7,
+            "TEXCOORD_0": 8
+          },
+          "indices": 9,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "name": "RootNode (gltf orientation matrix)",
+      "rotation": [
+        -0.70710678118654746,
+        -0,
+        -0,
+        0.70710678118654757
+      ]
+    },
+    {
+      "children": [
+        2
+      ],
+      "name": "RootNode (model correction matrix)"
+    },
+    {
+      "children": [
+        3
+      ],
+      "name": "Root"
+    },
+    {
+      "children": [
+        4,
+        5
+      ],
+      "matrix": [
+        0.81634000000000007,
+        0,
+        0,
+        0,
+        0,
+        0.81634000000000007,
+        0,
+        0,
+        0,
+        0,
+        0.81634000000000007,
+        0,
+        0,
+        -0,
+        0,
+        1
+      ],
+      "name": "Gift"
+    },
+    {
+      "mesh": 0,
+      "name": "Gift_0"
+    },
+    {
+      "mesh": 1,
+      "name": "Gift_1"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "OSG_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}
+

@@ -1,0 +1,11 @@
+Model Information:
+* title:	Gift
+* source:	https://sketchfab.com/3d-models/gift-5f8efb11edda4a9dab0d92de22793ea3
+* author:	davimfs7 (https://sketchfab.com/davimfs7)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Gift" (https://sketchfab.com/3d-models/gift-5f8efb11edda4a9dab0d92de22793ea3) by davimfs7 (https://sketchfab.com/davimfs7) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
